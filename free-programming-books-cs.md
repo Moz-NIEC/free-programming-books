@@ -31,6 +31,7 @@
 ### Java
 
 * [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf) (PDF)
+* [Programming in Java - Computer Science - An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/) (E-Book) 
 
 
 ### Git
